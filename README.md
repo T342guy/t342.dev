@@ -1,3 +1,6 @@
+This website is a copied and modified version of [nasan016's](https://github.com/nasan016/webshell) project!
+
+
 # [WebShell | Terminal Portfolio Website](https://webshellx.vercel.app/)
 
 <div align="center">
