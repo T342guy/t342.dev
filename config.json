@@ -7,14 +7,14 @@
     "███████║██║  ██║███████╗███████╗███████╗",
     "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "title": "WebShell_T3-sys",
+  "username": "WebUser",
+  "hostname": "t342.dev",
+  "password": "VALVe",
+  "repoLink": "https://github.com/T342guy/t342.dev",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
+    "email": "t3@t342.dev",
+    "github": "T342guy",
     "linkedin": "you"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
