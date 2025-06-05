@@ -17,10 +17,7 @@
     "github": "T342guy",
     "linkedin": "you"
   },
-  "aboutGreeting": [ 
-"Hello Hello there! Im T342!",
-"aaaaaaaaaaaaaaaaaaaaaaaaa",
-],
+  "aboutGreeting": "Hello Hello there! Im T342! <br> aaaaaaaa",
   "projects": [
     [
       "GofeR",
