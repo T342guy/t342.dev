@@ -17,7 +17,10 @@
     "github": "T342guy",
     "linkedin": "you"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": [ 
+"Hello Hello there! Im T342!",
+"aaaaaaaaaaaaaaaaaaaaaaaaa",
+],
   "projects": [
     [
       "GofeR",
