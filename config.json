@@ -32,7 +32,7 @@
   ],
   "colors": {
     "background": "#21262C",
-    "foreground": "#39414C",
+    "foreground": "#F8DDE5",
     "banner": "#FF9951",
     "border": {
       "visible": true,
