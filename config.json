@@ -36,7 +36,7 @@
     "banner": "#FF9951",
     "border": {
       "visible": true,
-      "color": "#6EC175"
+      "color": "#8c8c8c"
     },
     "prompt": {
       "default": "#A5A7A7",
