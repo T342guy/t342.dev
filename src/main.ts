@@ -8,16 +8,20 @@ import { createWhoami } from "./commands/whoami";
 import { inject } from '@vercel/analytics';
 inject();
 // this plays audio when the page loads
+// Play the audio after a user interaction to avoid autoplay errors
+window.addEventListener('click', () => {
+  // Create an audio element
+  // Make sure the file exists in the 'public/res' directory (or wherever your static files are served from)
+  const audioElement = new Audio('/res/xX_TF_CNS_TheArcade_24bit_Xx.mp3');
+  // Loop the audio
+  audioElement.loop = true;
+  // Control volume
+  audioElement.volume = 0.5; // 50% volume
 
-// Create an audio element
-// Make sure the file exists in the 'public/res' directory (or wherever your static files are served from)
-const audioElement = new Audio('./res/xX_TF_CNS_TheArcade_24bit_Xx.mp3');
-// Loop the audio
-audioElement.loop = true;
-// Control volume
-audioElement.volume = 0.5; // 50% volume
-// Play the audio
-audioElement.play();
+  audioElement.play().catch(() => {
+    // Autoplay might still be blocked, handle errors silently
+  });
+}, { once: true });
 
 //mutWriteLines gets deleted and reassigned
 let mutWriteLines = document.getElementById("write-lines");
