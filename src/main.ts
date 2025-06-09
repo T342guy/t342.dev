@@ -6,12 +6,11 @@ import { DEFAULT } from "./commands/default";
 import { PROJECTS } from "./commands/projects";
 import { createWhoami } from "./commands/whoami";
 import { inject } from '@vercel/analytics';
- 
 inject();
-
 // this plays audio when the page loads
 
 // Create an audio element
+// Make sure the file exists in the 'public/res' directory (or wherever your static files are served from)
 const audioElement = new Audio('./res/xX_TF_CNS_TheArcade_24bit_Xx.mp3');
 // Loop the audio
 audioElement.loop = true;
