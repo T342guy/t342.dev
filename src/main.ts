@@ -12,7 +12,7 @@ inject();
 // this plays audio when the page loads
 
 // Create an audio element
-const audioElement = new Audio('./res/xX_TF_CNS_TheArcade_24bit_Xx.wav');
+const audioElement = new Audio('./res/xX_TF_CNS_TheArcade_24bit_Xx.mp3');
 // Loop the audio
 audioElement.loop = true;
 // Control volume
