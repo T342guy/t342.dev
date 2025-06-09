@@ -8,6 +8,18 @@ import { createWhoami } from "./commands/whoami";
 import { inject } from '@vercel/analytics';
  
 inject();
+
+// this plays audio when the page loads
+
+// Create an audio element
+const audioElement = new Audio('./res/xX_TF_CNS_TheArcade_24bit_Xx.wav');
+// Loop the audio
+audioElement.loop = true;
+// Control volume
+audioElement.volume = 0.5; // 50% volume
+// Play the audio
+audioElement.play();
+
 //mutWriteLines gets deleted and reassigned
 let mutWriteLines = document.getElementById("write-lines");
 let historyIdx = 0
