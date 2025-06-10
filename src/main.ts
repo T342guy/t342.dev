@@ -13,7 +13,7 @@ window.addEventListener('click', () => {
   // Create an audio element
   // Make sure the file exists in the 'public/res' directory (or wherever your static files are served from)
   // If your build tool serves static files from 'public', use '/res/filename', otherwise try './res/filename'
-  const audioElement = new Audio('./xX_TF_CNS_TheArcade_24bit_Xx.mp3');
+  const audioElement = new Audio('./xX_TF_CNS_TheArcade_24bit_Xx.wav');
   // Loop the audio
   audioElement.loop = true;
   // Control volume
