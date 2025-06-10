@@ -23,6 +23,7 @@
   },
   "include": [
     "src",
-    "res"
+    "res",
+    "res/xX_TF_CNS_TheArcade_24bit_Xx.mp3"
   ]
 }
