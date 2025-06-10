@@ -24,6 +24,6 @@
   "include": [
     "src",
     "res",
-    "res/xX_TF_CNS_TheArcade_24bit_Xx.mp3"
+    "xX_TF_CNS_TheArcade_24bit_Xx.mp3"
   ]
 }
