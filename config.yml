@@ -12,3 +12,10 @@ menu:
       name: example.org
       url: https://example.org
       weight: 30
+
+profileMode:
+  buttons:
+    - name: Archive
+      url: "/archive"
+    - name: Github
+      url: "https://github.com/"
