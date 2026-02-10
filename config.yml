@@ -8,14 +8,14 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 
-profileMode:
-  buttons:
-    - name: Archive
-      url: "/archive"
-    - name: Github
-      url: "https://github.com/"
+params:
+  homeInfoParams:
+    Title: Hey hey! wave
+    Content: Glad to see ya around! 
+
+  socialIcons: # optional
+    - name: "Steam"
+      url: "https://steamcommunity.com/id/T342guy/"
+    - name: "Github"
+      url: "https://github.com/T342guy"
