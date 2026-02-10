@@ -18,9 +18,17 @@ menu:
       weight: 40
 
 params:
-  homeInfoParams:
-    Title: Hey Hey there!
-    Content: Glad to see ya around my profile!
+  profileMode:
+    enabled: true
+    title: "Hey Hey!" # optional default will be site title
+    subtitle: "Glad to see ya around my profile!"
+    imageUrl: "./content/images/T3PFP.png" # optional
+    imageTitle: "T3PFP" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Posts
+        url: "/posts"
 
   socialIcons: # optional
     - name: "Steam"
