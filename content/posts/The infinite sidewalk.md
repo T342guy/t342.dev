@@ -1,6 +1,7 @@
 ---
 author: ["T342guy"]
 title: "The infinite sidewalk."
+date: "10 Feb 2026"
 ---
 
 So, this might be cheezy. Might be cringe. Might be ackward.\
