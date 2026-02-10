@@ -1,10 +1,10 @@
 ---
 author: ["T342guy"]
 title: "First post!"
-date: "9 Feb 2026"
+date: "9 feb 2026"
 ---
 
-Hey Hey! 
+Hey Hey!
 
 Looks like this is my first post on ere, and honestly? Papermod looks pretty nice.\
 (other then the fact I kept having to fumble with it blehhhhhhh)
