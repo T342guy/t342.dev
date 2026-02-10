@@ -8,11 +8,25 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: archive
+      name: Archives
+      url: "/archive"
+      weight: 30
 
 params:
-  homeInfoParams:
-    Title: Hey hey! wave
-    Content: Glad to see ya around! 
+  profileMode:
+    enabled: true
+    title: "Hey Hey!" # optional default will be site title
+    subtitle: "Glad to see ya around!"
+    imageUrl: "/images/T3PFP.png" # optional
+    imageTitle: "T3PFP" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Repo source!
+        url: "https://github.com/T342guy/t342.dev"
 
   socialIcons: # optional
     - name: "Steam"
