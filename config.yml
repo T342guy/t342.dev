@@ -24,8 +24,8 @@ params:
     subtitle: "Glad to see ya around my profile!"
     imageUrl: "https://i.postimg.cc/wTcrp28N/512pfp.png" # optional
     imageTitle: "T3PFP" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 320 # custom size
+    imageHeight: 320 # custom size
     buttons:
       - name: Posts
         url: "/posts"
