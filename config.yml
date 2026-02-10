@@ -8,9 +8,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: archive
+    - identifier: archives
       name: Archives
-      url: "/archive"
+      url: "/archives"
       weight: 30
 
 params:
@@ -18,13 +18,13 @@ params:
     enabled: true
     title: "Hey Hey!" # optional default will be site title
     subtitle: "Glad to see ya around!"
-    imageUrl: "/images/T3PFP.png" # optional
+    imageUrl: ".\images\T3PFP.png" # optional
     imageTitle: "T3PFP" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archive"
+      - name: Archives
+        url: "/archives"
       - name: Repo source!
         url: "https://github.com/T342guy/t342.dev"
 
