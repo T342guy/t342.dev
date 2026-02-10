@@ -8,9 +8,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: "/archives"
+    - identifier: posts
+      name: Posts
+      url: "/posts"
       weight: 30
     - identifier: backtohome
       name: Back to home
