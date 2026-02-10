@@ -1,21 +1,25 @@
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: archives
       name: Archives
       url: "/archives"
       weight: 30
+    - identifier: backtohome
+      name: Back to home
+      url: "/"
+      weight: 40
 
 params:
   homeInfoParams:
-    Title: Hey Hey!  wave
+    Title: Hey Hey there!
     Content: Glad to see ya around my profile!
 
   socialIcons: # optional
