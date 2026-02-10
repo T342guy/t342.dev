@@ -18,7 +18,7 @@ params:
     enabled: true
     title: "Hey Hey!" # optional default will be site title
     subtitle: "Glad to see ya around!"
-    imageUrl: "T3PFP.png" # optional
+    imageUrl: "images/T3PFP.png" # optional
     imageTitle: "T3PFP" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
