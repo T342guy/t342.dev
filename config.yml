@@ -45,5 +45,5 @@ params:
       url: "https://bsky.app/profile/t342.dev"
     - name: "medal.gg"
       url: "https://medal.tv/u/T342/?invite=ur-MSxSbk0sMzIwMDQ3Nzg2"
-    - name: "itch"
+    - name: "itchio"
       url: "https://t342guy.itch.io/"
