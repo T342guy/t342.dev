@@ -1,7 +1,6 @@
 ---
 author: ["T342guy"]
 title: "First post!"
-date: "feb 9 2026"
 ---
 
 Hey Hey!
