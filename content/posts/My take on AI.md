@@ -4,8 +4,7 @@ title: "My take on AI"
 author: ["T342guy"]
 ---
 
-> [!NOTE] 
-> This is purely my opinion, so lets agree to disagree if you dont. :>
+> NOTE: This is purely my opinion, so lets agree to disagree if you dont. :>
 
 So, AI.\
 Its supposed to be this *magical* thing that solves all our problems and help us in daily life. 
