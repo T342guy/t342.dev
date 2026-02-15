@@ -1,6 +1,6 @@
 ---
+date: "15 feb 2026"
 title: "My take on AI"
-date: "Feb 15 2026"
 author: ["T342guy"]
 ---
 
