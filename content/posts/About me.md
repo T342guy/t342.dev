@@ -1,5 +1,5 @@
 ---
-date: "feb 18 2026"
+date: "18 feb 2026"
 title: "About me, T342guy!"
 author: ["T342guy"]
 ---
