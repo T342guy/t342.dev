@@ -40,6 +40,14 @@
 {{- end }}
 
 <header class="header">
+{{ if not hugo.IsServer }}
+<script>
+  window.va = window.va || function () {
+    (window.vaq = window.vaq || []).push(arguments);
+  };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+{{ end }}
     <nav class="nav">
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
