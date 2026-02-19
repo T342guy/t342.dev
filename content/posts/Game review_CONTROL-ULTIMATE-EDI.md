@@ -1,5 +1,5 @@
 ---
-date: "feb 19 2026"
+date: "19 feb 2026"
 title: "Honest game review: CONTROL: ULTIMATE EDITION"
 author: ["T342guy"]
 categories: ["Honest game reviews"]
